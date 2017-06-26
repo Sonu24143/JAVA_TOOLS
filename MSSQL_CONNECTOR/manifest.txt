@@ -1,0 +1,2 @@
+Main-Class: MsSqlConnector
+Class-Path: lib/sqljdbc42.jar
