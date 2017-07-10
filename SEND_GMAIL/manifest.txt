@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_131 
+Main-Class: SendMail
+Class-Path: lib/javamail-1.4.5/mail.jar
